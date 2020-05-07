@@ -1,3 +1,4 @@
+The Rainbow and the NewUnicorn
 
 Purple
 Pink
@@ -6,7 +7,7 @@ Blue
 Yellow
 Red
 Green
-These are the colors of my rainbow
+These are the colors of my rainbow and the Unicorn
 
 
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 
