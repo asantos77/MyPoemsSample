@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 indigo
+indigo2222
 Mauve
 Yellow
 Red
